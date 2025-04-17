@@ -29,6 +29,8 @@ Install needed dependencies with:
 pip install openai python-dotenv
 ```
 
+### You can adjust the AI Model by changing "gpt-4.1-2025-04-14" - it is currently set to the latest GPT-4.1 release.
+
 ## Usage
 
 1. Ensure you have your OpenAI API key set as an environment variable (`OPENAI_API_KEY`) or in a `.env` file in the project directory.
