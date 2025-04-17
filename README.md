@@ -41,7 +41,7 @@ pip install openai python-dotenv
     - Edit files by replacing all instances of a string
     - Create new files
 
-## Security Notes
+## Safe & Secure
 
 - For safety, the utility only allows file operations within your project directory.
 - Attempts to access or edit files outside this directory are blocked.
