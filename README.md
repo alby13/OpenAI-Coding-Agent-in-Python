@@ -1,5 +1,7 @@
 # OpenAI Coding Agent in Python
 
+<img src="https://github.com/alby13/OpenAI-Coding-Agent-in-Python/blob/main/coding-agent-screenshot.jpg">
+
 ## Overview
 
 OpenAI Coding Agent in Python is a Python application with a graphical interface (Tkinter) for working with files and directories in your project, with tools tailored for integration with the OpenAI API. It enables you to read, list, and edit files securely from a user-friendly GUI, and handles OpenAI API key management for you.
